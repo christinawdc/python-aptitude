@@ -8,3 +8,4 @@ class Solution:
                 x=stack.pop() #Temperature
                 answer[x]=i-x #No. of days waited
             stack.append(i)
+        return answer
