@@ -5,3 +5,12 @@ for i in range(1, n + 1):
         print(num, end="")
         num += 2
     print()
+
+# Sample Input 
+# 5
+# Sample Output 
+# 1
+# 24
+# 135
+# 2468
+# 13579
